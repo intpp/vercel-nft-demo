@@ -1,0 +1,14 @@
+{
+  "name": "vercel-nft-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "files": "node nft.js"
+  },
+  "author": "intpp",
+  "dependencies": {
+    "@vercel/nft": "^0.22.6",
+    "intpp-some-nft-demo": "1.0.0"
+  }
+}
